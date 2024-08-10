@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1723306229.97604 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1723306231.33796 0
+["pdflatex"] 1723311034.29059 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1723311035.90652 0
   "C:/Users/majdy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723305898 80937 91001db6d4ae332437b4b739862cda02 ""
-  "C:/Users/majdy/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1723305902 12124 51b8a5b70c0ba655be4b0cb37fd861bf ""
+  "C:/Users/majdy/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723307291 11548 b93e57832d225ecea9ca5dba52ecc1d4 ""
   "C:/Users/majdy/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713721591 24236047 2aa70a2d403beb892a7091059386e02f ""
-  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcbx1000.tfm" 993062478 1456 278016b1e421c8e979679e0372f68bf1 ""
+  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -84,10 +84,10 @@
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1723306229 7395 e47881fa8e8a878cb567b48a2e99f5f9 ""
-  "main.aux" 1723306231 901 54714ec0fef0dedef18fba47f5053cb7 "pdflatex"
-  "main.out" 1723306231 650 8631d01f8df8416c9043a3dccc046c1d "pdflatex"
-  "main.tex" 1723306229 7395 e47881fa8e8a878cb567b48a2e99f5f9 ""
+  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1723311032 7452 9163b28b5acb92af9c31142d30052927 ""
+  "main.aux" 1723311035 725 b366b05146be77ba7361856a5415ab4d "pdflatex"
+  "main.out" 1723311035 663 d5088ec365854cc58f08b57ca9c5ff5a "pdflatex"
+  "main.tex" 1723311032 7452 9163b28b5acb92af9c31142d30052927 ""
   (generated)
   "main.aux"
   "main.log"
