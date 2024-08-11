@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1723376859.92221 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1723376861.24166 0
+["pdflatex"] 1723396422.86887 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1723396424.20312 0
   "C:/Users/majdy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723305898 80937 91001db6d4ae332437b4b739862cda02 ""
   "C:/Users/majdy/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723307291 11548 b93e57832d225ecea9ca5dba52ecc1d4 ""
   "C:/Users/majdy/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713721591 24236047 2aa70a2d403beb892a7091059386e02f ""
@@ -89,10 +89,10 @@
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1723376857 7252 bc0d41405a920bdb7526b504dce00a18 ""
-  "main.aux" 1723376860 725 d80005232493482e1df982d874aeaf5d "pdflatex"
-  "main.out" 1723376860 663 55345d47c7c7c8f45808706400e13bef "pdflatex"
-  "main.tex" 1723376857 7252 bc0d41405a920bdb7526b504dce00a18 ""
+  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1723396421 7255 8cc6fae65ba0500499534b2c29f54566 ""
+  "main.aux" 1723396423 725 d80005232493482e1df982d874aeaf5d "pdflatex"
+  "main.out" 1723396423 663 55345d47c7c7c8f45808706400e13bef "pdflatex"
+  "main.tex" 1723396421 7255 8cc6fae65ba0500499534b2c29f54566 ""
   (generated)
   "main.aux"
   "main.log"
