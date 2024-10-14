@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1723396422.86887 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1723396424.20312 0
-  "C:/Users/majdy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723305898 80937 91001db6d4ae332437b4b739862cda02 ""
-  "C:/Users/majdy/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723307291 11548 b93e57832d225ecea9ca5dba52ecc1d4 ""
+["pdflatex"] 1728920802.44016 "c:/Users/majdy/OneDrive/Careers/CV/main.tex" "main.pdf" "main" 1728920803.8096 0
+  "C:/Users/majdy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728836630 278043 2fff0ae90a2a625d5f7da1eb471ba2d4 ""
   "C:/Users/majdy/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713721591 24236047 2aa70a2d403beb892a7091059386e02f ""
-  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
+  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcbx1000.tfm" 993062478 1456 278016b1e421c8e979679e0372f68bf1 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx5.tfm" 1136765053 1332 f817c21a1ba54560425663374f1b651a ""
@@ -34,6 +34,7 @@
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "C:/Users/majdy/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb" 1215618300 145408 bcd327f112f643a875638eafb48d1d8b ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1711698496 146574 57b2d0b841f5ba351d3d7e0a1fbdd58a ""
@@ -89,10 +90,10 @@
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/majdy/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1723396421 7255 8cc6fae65ba0500499534b2c29f54566 ""
-  "main.aux" 1723396423 725 d80005232493482e1df982d874aeaf5d "pdflatex"
-  "main.out" 1723396423 663 55345d47c7c7c8f45808706400e13bef "pdflatex"
-  "main.tex" 1723396421 7255 8cc6fae65ba0500499534b2c29f54566 ""
+  "c:/Users/majdy/OneDrive/Careers/CV/main.tex" 1728920801 8376 57655e5498db54dbf03d56467c5ef29b ""
+  "main.aux" 1728920803 725 d80005232493482e1df982d874aeaf5d "pdflatex"
+  "main.out" 1728920803 663 55345d47c7c7c8f45808706400e13bef "pdflatex"
+  "main.tex" 1728920801 8376 57655e5498db54dbf03d56467c5ef29b ""
   (generated)
   "main.aux"
   "main.log"
